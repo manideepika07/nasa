@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #111;
+    color: white;
+}
+
+header {
+    background-color: #222;
+    padding: 20px;
+    font-size: 24px;
+}
+
+#content {
+    margin: 20px auto;
+    width: 80%;
+}
+
+img, iframe {
+    width: 80%;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 18px;
+}
